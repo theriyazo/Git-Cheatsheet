@@ -109,14 +109,14 @@ Created: November 6, 2021 1:17 AM
 - Remove/Delete file
     
     <aside>
-    💲  rm -rf <file> 
+    💲  rm -rf < file > 
     
     </aside>
     
 
 ## Staging
 
-- Adding files to a particular file
+- Adding a particular file
     
     <aside>
     💲  git add <file> 
