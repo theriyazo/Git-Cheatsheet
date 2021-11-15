@@ -14,7 +14,7 @@ Created: November 6, 2021 1:17 AM
 - Going back to a commit [#](https://git-scm.com/docs/git#Documentation/git.txt-ahrefdocsgit-checkoutgit-checkout1a)
     
     <aside>
-    💲  git checkout <hash-code> 
+    💲  git checkout < hash-code > 
     
     </aside>
     
@@ -48,21 +48,21 @@ Created: November 6, 2021 1:17 AM
 ## Logs changes
 
 <aside>
-💲  git add <file> 
+💲  git add < file > 
 
 </aside>
 
 ## Adding commit message
 
 <aside>
-💲  git commit -m "<message>" 
+💲  git commit -m "< message >" 
 
 </aside>
 
 ## Logs commit
 
 <aside>
-💲  git commit -m <file> 
+💲  git commit -m < file > 
 
 </aside>
 
@@ -95,14 +95,14 @@ Created: November 6, 2021 1:17 AM
 - To create file
     
     <aside>
-    💲  touch <file> 
+    💲  touch < file > 
     
     </aside>
     
 - To look inside file
     
     <aside>
-    💲  cat <file> 
+    💲  cat < file > 
     
     </aside>
     
@@ -119,7 +119,7 @@ Created: November 6, 2021 1:17 AM
 - Adding a particular file
     
     <aside>
-    💲  git add <file> 
+    💲  git add < file > 
     
     </aside>
     
@@ -133,26 +133,26 @@ Created: November 6, 2021 1:17 AM
 - To add all files with the particular extension
     
     <aside>
-    💲  git add *.<fileExtension>
+    💲  git add *.< fileExtension >
     
     </aside>
     
 - Un-stage particular commit changes
     
     <aside>
-    💲  git reset <hashNum> 
+    💲  git reset < hashNum > 
     
     </aside>
     
 - Removing file from stage
     
     <aside>
-    💲  git restore - - staged <file> 
+    💲  git restore - - staged < file > 
     
     </aside>
     
     <aside>
-    💲  git rm - - cached <file> 
+    💲  git rm - - cached < file > 
     
     </aside>
     
@@ -170,7 +170,7 @@ Created: November 6, 2021 1:17 AM
 - Adding message to a stash
     
     <aside>
-    💲  git stash save "<message>" 
+    💲  git stash save "< message >" 
     
     </aside>
     
@@ -208,7 +208,7 @@ Created: November 6, 2021 1:17 AM
 - Adding remote Repo to local repo
     
     <aside>
-    💲  git remote add origin <https://gitRepoURL.git> 
+    💲  git remote add origin < https://gitRepoURL.git > 
     
     </aside>
     
@@ -222,7 +222,7 @@ Created: November 6, 2021 1:17 AM
 - To push changes to remote Repo
     
     <aside>
-    💲  git push origin <HEAD Branch> 
+    💲  git push origin < HEAD Branch > 
     
     </aside>
     
@@ -245,14 +245,14 @@ Created: November 6, 2021 1:17 AM
 - To update remote repo
     
     <aside>
-    💲  git remote set-url origin <newRemoteRepoURL.git> 
+    💲  git remote set-url origin < newRemoteRepoURL.git > 
     
     </aside>
     
 - To add add Upstream (forked repo URL)
     
     <aside>
-    💲  git remote add upstream <URL> 
+    💲  git remote add upstream < URL > 
     
     </aside>
     
@@ -266,7 +266,7 @@ Created: November 6, 2021 1:17 AM
 - To clone remote repo
     
     <aside>
-    💲  git clone <repoURL> 
+    💲  git clone < repoURL > 
     
     </aside>
     
@@ -276,28 +276,28 @@ Created: November 6, 2021 1:17 AM
 - To Create new branch
     
     <aside>
-    💲  git branch <branchName> 
+    💲  git branch < branchName > 
     
     </aside>
     
 - To Switch to particular branch
     
     <aside>
-    💲  git checkout<branchName> 
+    💲  git checkout < branchName > 
     
     </aside>
     
 - To Create new branch and switch to it
     
     <aside>
-    💲  git checkout -b <branchName> 
+    💲  git checkout -b < branchName > 
     
     </aside>
     
 - Merge the current branch
     
     <aside>
-    💲  git merge <branchName> 
+    💲  git merge < branchName > 
     
     </aside>
     
