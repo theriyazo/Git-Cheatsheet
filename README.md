@@ -1,9 +1,8 @@
-# GitHub CheatSheet
+# GitHub CheatSheet by RiyazAhamad(theriyazo)
 
 Created: November 6, 2021 1:17 AM
-Materials: https://git-scm.com/docs/git, https://developer.mozilla.org/en-US/docs/Web/JavaScript
-Reviewed: No
-Sub: Git
+### Materials: [src_1](https://git-scm.com/docs/git), [src_2](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+Reviewed: Yes
 
 ## Git Commit History [#](https://git-scm.com/docs/git#Documentation/git.txt-ahrefdocsgit-loggit-log1a) :
 
