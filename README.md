@@ -42,7 +42,7 @@ Created: November 6, 2021 1:17 AM
 
 </aside>
 
-- gives the <hashNumber> and details
+- gives the `<hashNumber>` and details
 - to exit git log → `q` or `z`
 
 ## Logs changes
