@@ -28,9 +28,15 @@ Created: November 6, 2021 1:17 AM
 
 </aside>
 
-## Login credentials
+## Initial Git Login commands
+
+### Configure your user name
 <aside>
-💲  git config --global user.name "your_username"
+💲  git config --global user.name "your_github_username"
+</aside>
+
+### Configure your email id used for github
+<aside>
 💲  git config --global user.email "your_email@mail.com"
 </aside>
 
