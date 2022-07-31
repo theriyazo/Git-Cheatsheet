@@ -28,6 +28,12 @@ Created: November 6, 2021 1:17 AM
 
 </aside>
 
+## Login credentials
+<aside>
+💲  git config --global user.name "your_username"
+💲  git config --global user.email "your_email@mail.com"
+</aside>
+
 ## List hidden files
 
 <aside>
