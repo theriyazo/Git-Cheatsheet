@@ -30,15 +30,21 @@ Created: November 6, 2021 1:17 AM
 
 ## Initial Git Login commands
 
-### Configure your user name
-<aside>
-💲  git config --global user.name "your_github_username"
-</aside>
+- Configure your user name
+    
+    <aside>
+    💲 git config --global user.name "your_github_username"
+    
+    </aside>
+    
 
-### Configure your email id used for github
-<aside>
-💲  git config --global user.email "your_email@mail.com"
-</aside>
+- Configure your email id used for github
+    
+    <aside>
+    💲 git config --global user.email "your_email@example.com"
+    
+    </aside>
+    
 
 ## List hidden files
 
